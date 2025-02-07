@@ -12,6 +12,10 @@ services:
     ports:
       - 1883:1883
       - 18083:18083
+    volumes:
+      - type: bind
+        source: acl.conf
+        target: /opt/emqx/etc/acl.conf
   redis:
     image: redis:latest
     container_name: redis
