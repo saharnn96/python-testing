@@ -1,0 +1,15 @@
+2024-12-18 16:12:38,526 - Trustworthiness - INFO - Initializing Knowledge: global knowledge
+2024-12-18 16:12:38,526 - Trustworthiness - INFO - Initializing Event Manager
+2024-12-18 16:12:38,526 - Trustworthiness - INFO - Trustworthiness is using Communication Manager
+2024-12-18 16:12:38,526 - Trustworthiness - INFO - Trustworthiness instantiated
+2024-12-18 16:12:38,526 - Trustworthiness - INFO - Registered callback for event: anomaly
+2024-12-18 16:12:38,526 - Trustworthiness - INFO - Registered callback for event: anomaly
+2024-12-18 16:12:38,526 - Trustworthiness - INFO - Registered callback for event: new_plan
+2024-12-18 16:12:38,527 - Trustworthiness - INFO - Registered callback for event: new_plan
+2024-12-18 16:12:38,527 - Trustworthiness - INFO - Registered callback for event: isLegit
+2024-12-18 16:12:38,527 - Trustworthiness - INFO - Registered callback for event: isLegit
+2024-12-18 16:12:38,527 - Trustworthiness - INFO - Registered callback for event: /spin_config
+2024-12-18 16:12:38,527 - Trustworthiness - INFO - Registered callback for event: /spin_config
+2024-12-18 16:12:38,527 - Trustworthiness - INFO - Registered callback for event: maple
+2024-12-18 16:12:38,527 - Trustworthiness - INFO - Registered callback for event: maple
+2024-12-18 16:12:38,527 - Trustworthiness - INFO - Trustworthiness is starting...
